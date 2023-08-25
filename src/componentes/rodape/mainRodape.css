@@ -1,0 +1,14 @@
+.rodape{
+    width: 100%;
+    height: 6vh;
+    background-color: #344e41;
+    align-items: center;
+    
+}
+.rodape p {
+    color: #FEFEFE;
+    text-align: center;
+    font-size: 18px;
+    font-family: Fira Code;
+    font-weight: 700;
+}
